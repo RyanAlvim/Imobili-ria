@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.br.LopesElite_Geral.LopesElite_Geral.LopesEliteGeralAppl
+ ication
+
