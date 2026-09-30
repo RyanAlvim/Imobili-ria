@@ -1,4 +1,4 @@
-# 🏢 Lopes Elite — Sistema de Gestão
+# 🏢 Imobili-ria — Sistema de Gestão
 
 > Aplicação web desenvolvida em Java para gerenciamento de usuários, negócios, pagamentos, controle financeiro e comunicação interna.
 
@@ -6,7 +6,7 @@
 
 ## 📌 Sobre o Projeto
 
-O **Lopes Elite** é uma aplicação web desenvolvida inteiramente em **Java**, utilizando **Spring Boot**, criada para centralizar processos administrativos e financeiros de uma empresa do setor imobiliário.
+O **Imobili-ria** é uma aplicação web desenvolvida inteiramente em **Java**, utilizando **Spring Boot**, criada para centralizar processos administrativos e financeiros de uma empresa do setor imobiliário.
 
 O sistema reúne diferentes funcionalidades em uma única plataforma, permitindo o gerenciamento de:
 
